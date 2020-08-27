@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-bootstrap-easy-integration/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-bootstrap-easy-integration/static/js/main.58709f5d.chunk.js",
+    "main.js.map": "/react-bootstrap-easy-integration/static/js/main.58709f5d.chunk.js.map",
+    "runtime-main.js": "/react-bootstrap-easy-integration/static/js/runtime-main.b9b2ed06.js",
+    "runtime-main.js.map": "/react-bootstrap-easy-integration/static/js/runtime-main.b9b2ed06.js.map",
+    "static/js/2.f83d0f7f.chunk.js": "/react-bootstrap-easy-integration/static/js/2.f83d0f7f.chunk.js",
+    "static/js/2.f83d0f7f.chunk.js.map": "/react-bootstrap-easy-integration/static/js/2.f83d0f7f.chunk.js.map",
+    "index.html": "/react-bootstrap-easy-integration/index.html",
+    "precache-manifest.07e0ef50306d9d1608878bfa626ebb02.js": "/react-bootstrap-easy-integration/precache-manifest.07e0ef50306d9d1608878bfa626ebb02.js",
+    "service-worker.js": "/react-bootstrap-easy-integration/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-bootstrap-easy-integration/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f83d0f7f.chunk.js.LICENSE.txt": "/react-bootstrap-easy-integration/static/js/2.f83d0f7f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-bootstrap-easy-integration/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9b2ed06.js",
+    "static/js/2.f83d0f7f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.58709f5d.chunk.js"
+  ]
+}
